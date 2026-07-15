@@ -6,7 +6,7 @@
 🌍 I'm based in Palestine  
 📚 I am currently learning and improving my Front-End development skills  
 💻 I work with HTML, CSS, and general programming languages  
-📫 How to reach me: **abdulrazzaq.eid@gmail.com**
+📫 How to reach me: **abdalrazzaqeid@gmail.com**
 
 ---
 
